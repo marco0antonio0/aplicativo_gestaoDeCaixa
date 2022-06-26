@@ -19,6 +19,7 @@ Projeto de aplicativo feito em flutter com. Objetivo deste aplicativo é auxilia
 *   Carrinho
 *   Conclusão de Venda
 
+>Aplicativo em desenvolvimento talvez tenha alguns bugs 
 ##  Integrantes
 *   Desenvolvedor Marco Antonio 
 
