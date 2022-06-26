@@ -4,7 +4,7 @@ Projeto de aplicativo feito em flutter com. Objetivo deste aplicativo é auxilia
 
 ## Download disponivel do app versão beta
 
-[Download aplicativo Gestão de caixa](https://www.instagram.com/marco0antonio_/)
+[Download aplicativo Gestão de caixa](https://github.com/marco0antonio0/aplicativo_gestaoDeCaixa/raw/master/app%20--%20apk%20install/app-release.apk)
 
 ## Ferramentas utilizadas
 *   Linguagem flutter,dart,sqlite(sqflite)
@@ -12,9 +12,16 @@ Projeto de aplicativo feito em flutter com. Objetivo deste aplicativo é auxilia
 
 
 
-##  Pagina -- Estoque
+##  Paginas
+*   Estoque
+*   Frente de Caixa
+*   Edição de Dados
+*   Carrinho
+*   Conclusão de Venda
 
-<img src="imagesReadme/pageEstoque.png"  height="500" />
+##  Integrantes
+*   Desenvolvedor Marco Antonio 
+
 
 ## Redes sociais
 [![img](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
